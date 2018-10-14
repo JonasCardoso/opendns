@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=opendns
+name=Magisk OpenDNS
+version=v1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=JonasCardoso
+description=Use OpenDNS servers
 minMagisk=17000
