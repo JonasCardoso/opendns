@@ -1,4 +1,4 @@
-## Description
+##OpenDNS
 This module makes your device to use OpenDNS servers.
 
 #### Changelog
