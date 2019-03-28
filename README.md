@@ -3,9 +3,12 @@ This module makes your device to use OpenDNS servers.
 
 #### Changelog
 * 1.0 Initial release
+* 1.1 Update magisk installer
 
 #### Magisk Template
-* v17000
+* New module magisk installer
+
+
 
 #### Test DNS
 

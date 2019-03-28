@@ -1,7 +1,6 @@
 id=opendns
 name=Magisk OpenDNS
-version=v1.0
-versionCode=1
+version=v1.1
+versionCode=11
 author=JonasCardoso
 description=Use OpenDNS servers
-minMagisk=17000
